@@ -23,7 +23,7 @@
     "InjectScreen_Fail": "Erreur de lancement",
     "InjectScreen_Disabled": "Actuellement désactivé",
 
-    "GameLogging_Header": "Journal de juex",
+    "GameLogging_Header": "Journal de jeux",
     "GameLogging_Disable": "Désactiver la journalisation du jeux?",
     "GameLogging_Yes": "Oui",
     "GameLogging_No": "Non",
@@ -32,15 +32,15 @@
     "AutoUpdate_Checking": "Vérifier les mises à jour...",
 
     "AntiVirus_Header": "Windows Defender",
-    "AntiVirus_Allow": "Autoriser Fortnite Pizza dans Windows Defender?",
+    "AntiVirus_Allow": "Autoriser Fortnite Pizza dans Windows Defender ?",
     "AntiVirus_Yes": "Oui",
     "AntiVirus_No": "Non",
 
     "OverlayWindow_QueueHeader": "Dans la file d'attente",
-    "OverlayWindow_ETAHeader": "prévue d'arrivée",
+    "OverlayWindow_ETAHeader": "Arrivée prévue",
     "OverlayWindow_QueuePos": "Position dans la file d'attente",
     "OverlayWindow_QueueBestServer": "Meilleur serveur",
-    "OverlayWindow_QueuePing": "Cinglement",
+    "OverlayWindow_QueuePing": "Lancement",
 
     "IngameWindow_Header": "Informations sur le jeu",
     "IngameWindow_QueueInfo_StatusBody": "Dans la file d'attente",
@@ -57,19 +57,19 @@
     "IngameWindow_MatchInfo_PLButton": "Voir les joueurs",
     "IngameWindow_NormalInfo_BP": "Points de Sang",
     "IngameWindow_NormalInfo_AUR": "Cellules D'ora",
-    "IngameWindow_NormalInfo_IRI": "Éclats Irisès",
+    "IngameWindow_NormalInfo_IRI": "Éclats Irisés",
     "IngameWindow_NormalInfo_KRANK": "RANG DE TUEUR",
     "IngameWindow_NormalInfo_SRANK": "RANG DE SURVIVANT",
     "IngameWindow_StreamsniperButton": "Streamsniper",
     "IngameWindow_CopyName": "Nom d'utilisateur copié",
-    "IngameWindow_CopyCID": "Copied Cloud ID",
+    "IngameWindow_CopyCID": "Cloud ID copié",
 
     "StreamSnipe_Header": "Stream Sniper",
     "StreamSnipe_LogsHeader": "Sniper Logistique",
     "StreamSnipe_ActivateButton": "Activer",
     "StreamSnipe_DeActivateButton": "Désactiver",
-    "StreamSnipe_ActivateMessage": "Activé streamsniper",
-    "StreamSnipe_DeActivateMessage": "Désactivé streamsniper",
+    "StreamSnipe_ActivateMessage": "Streamsniper activé",
+    "StreamSnipe_DeActivateMessage": "Streamsniper désactivé",
     "StreamSnipe_ReFetch": "Options de réinitialisation",
     "StreamSnipe_ReFetchMessage": "Remise à zéro sniper options",
     "StreamSnipe_FoundGame": "Jeu trouvé",
@@ -103,5 +103,5 @@
     "PlyList_Killer": "Tueur",
     "PlyList_SentFr": "Envoi d'une demande d'ami",
     "PlyList_NoFr": "Erreur dans l'envoi d'une demande d'ami",
-    "PlyList_CopyCID": "Copié Cloud ID"
+    "PlyList_CopyCID": "Cloud ID copié"
 }
