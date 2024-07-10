@@ -56,7 +56,7 @@
     "IngameWindow_MatchInfo_MH": "Match Host",
     "IngameWindow_MatchInfo_PLButton": "View Players",
     "IngameWindow_NormalInfo_BP": "Bloodpoints",
-    "IngameWindow_NormalInfo_AUR": "Auric Celss",
+    "IngameWindow_NormalInfo_AUR": "Auric Cells",
     "IngameWindow_NormalInfo_IRI": "Iri Shards",
     "IngameWindow_NormalInfo_KRANK": "Killer Rank",
     "IngameWindow_NormalInfo_SRANK": "Survivor Rank",
@@ -96,6 +96,7 @@
     "Settings_Header_IngWindow": "Ingame Window",
     "Settings_TopMost": "Force window on top",
     "Settings_Lang": "App Language",
+    "Settings_Header_Theme": "Theme",
 
     "PlyList_Header": "Player List",
     "PlyList_Unknown": "Unknown",
