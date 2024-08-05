@@ -1,4 +1,7 @@
 {
+    "LangName": "Português Brasileiro",
+    "LangCode": "pt-br",
+    
     "LicenseScreen_Header": "Autenticação",
     "LicenseScreen_InputBoxHeader": "Licença",
     "LicenseScreen_RememberMe": "Lembrar de mim",
