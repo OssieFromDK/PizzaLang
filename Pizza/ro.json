@@ -75,6 +75,9 @@
     "StreamSnipe_FoundGame": "Meci Gasit",
     "StreamSnipe_SameMatchId": "Aceelas match id gasit, Se reincearca queue",
     "StreamSnipe_NoMatches": "Niciun meci gasit , Se reincearca queue",
+    "StreamSnipe_MatchFound_Cloud": "Found Cloud-Id Match [{0}]",
+    "StreamSnipe_MatchFound_Playername": "Found name match [{0}] | [{1}]",
+    "StreamSnipe_MatchFound_Steam64": "Found steam64 match [{0}] ({1})",
     "StreamSnipe_MatchFound": "Meci gasit",
 
     "Settings_Header": "Setari",

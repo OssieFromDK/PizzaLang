@@ -75,6 +75,9 @@
     "StreamSnipe_FoundGame": "找到游戏",
     "StreamSnipe_SameMatchId": "找到相同匹配ID，重新排队",
     "StreamSnipe_NoMatches": "未找到匹配，重新排队",
+    "StreamSnipe_MatchFound_Cloud": "Found Cloud-Id Match [{0}]",
+    "StreamSnipe_MatchFound_Playername": "Found name match [{0}] | [{1}]",
+    "StreamSnipe_MatchFound_Steam64": "Found steam64 match [{0}] ({1})",
     "StreamSnipe_MatchFound": "找到匹配，加入游戏",
 
     "Settings_Header": "设置",

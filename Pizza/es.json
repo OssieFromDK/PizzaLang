@@ -75,6 +75,9 @@
     "StreamSnipe_FoundGame": "Partida encontrada",
     "StreamSnipe_SameMatchId": "Mismo id de partida encontrado, reiniciando cola",
     "StreamSnipe_NoMatches": "No se encontraron partidas, reiniciando cola",
+    "StreamSnipe_MatchFound_Cloud": "Found Cloud-Id Match [{0}]",
+    "StreamSnipe_MatchFound_Playername": "Found name match [{0}] | [{1}]",
+    "StreamSnipe_MatchFound_Steam64": "Found steam64 match [{0}] ({1})",
     "StreamSnipe_MatchFound": "Partida encontrada, entrando a partida",
 
     "Settings_Header": "Ajustes",

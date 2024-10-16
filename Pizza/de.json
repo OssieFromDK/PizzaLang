@@ -75,6 +75,9 @@
     "StreamSnipe_FoundGame": "Spiel gefunden!",
     "StreamSnipe_SameMatchId": "gleiches Spiel gefunden, starte die Suche neu",
     "StreamSnipe_NoMatches": "keine Übereinstimmung gefunden, starte die Suche neu",
+    "StreamSnipe_MatchFound_Cloud": "Found Cloud-Id Match [{0}]",
+    "StreamSnipe_MatchFound_Playername": "Found name match [{0}] | [{1}]",
+    "StreamSnipe_MatchFound_Steam64": "Found steam64 match [{0}] ({1})",
     "StreamSnipe_MatchFound": "Spiel gefunden!, trete bei",
 
     "Settings_Header": "Einstellungen",
