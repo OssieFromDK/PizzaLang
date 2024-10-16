@@ -75,6 +75,9 @@
     "StreamSnipe_FoundGame": "Found game",
     "StreamSnipe_SameMatchId": "Same match id found, restarting queue",
     "StreamSnipe_NoMatches": "No matches found, restarting queue",
+    "StreamSnipe_MatchFound_Cloud": "Found Cloud-Id Match [{0}]",
+    "StreamSnipe_MatchFound_Playername": "Found name match [{0}] | [{1}]",
+    "StreamSnipe_MatchFound_Steam64": "Found steam64 match [{0}] ({1})",
     "StreamSnipe_MatchFound": "Match found, joining game",
 
     "Settings_Header": "Settings",
