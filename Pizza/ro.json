@@ -36,6 +36,16 @@
     "AntiVirus_Yes": "Da",
     "AntiVirus_No": "Nu",
 
+    "ShortcutDesktop_Header": "Desktop Shortcut",
+    "ShortcutDesktop_Question": "Create a desktop shortcut?",
+    "ShortcutDesktop_Yes": "Da",
+    "ShortcutDesktop_No": "Nu",
+
+    "ShortcutStartMenu_Header": "Start Menu Shortcut",
+    "ShortcutStartMenu_Question": "Create a start menu shortcut?",
+    "ShortcutStartMenu_Yes": "Da",
+    "ShortcutStartMenu_No": "Nu",
+
     "OverlayWindow_QueueHeader": "In Queue",
     "OverlayWindow_ETAHeader": "ETA",
     "OverlayWindow_QueuePos": "Queue Pos",

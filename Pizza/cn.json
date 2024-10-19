@@ -36,6 +36,16 @@
     "AntiVirus_Yes": "是",
     "AntiVirus_No": "否",
 
+    "ShortcutDesktop_Header": "Desktop Shortcut",
+    "ShortcutDesktop_Question": "Create a desktop shortcut?",
+    "ShortcutDesktop_Yes": "是",
+    "ShortcutDesktop_No": "否",
+
+    "ShortcutStartMenu_Header": "Start Menu Shortcut",
+    "ShortcutStartMenu_Question": "Create a start menu shortcut?",
+    "ShortcutStartMenu_Yes": "是",
+    "ShortcutStartMenu_No": "否",
+
     "OverlayWindow_QueueHeader": "队列中",
     "OverlayWindow_ETAHeader": "预计时间",
     "OverlayWindow_QueuePos": "队列位置",
