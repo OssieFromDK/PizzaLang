@@ -123,6 +123,10 @@
     "ThemeMaker_SaveSuccess": "Successfully saved theme",
     "ThemeMaker_SaveFail": "This theme already exists",
 
+    "CrosshairMaker_Header": "Crosshair Maker",
+    "CrosshairMaker_Crosshair": "Crosshair",
+    "CrosshairMaker_YourCrosshairName": "Your crosshair name here...",
+
     "PlyList_Header": "Lista de Jogadores",
     "PlyList_Unknown": "Desconhecido",
     "PlyList_You": "Você",
