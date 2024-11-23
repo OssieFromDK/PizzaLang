@@ -117,6 +117,10 @@
     "Settings_Theme_ThemeShare_Button": "Share Current Theme",
     "Settings_Theme_Shared": "Copied link to clipboard",
     "Settings_Theme_NoShare": "Couldn't share theme",
+    "Settings_Theme_Delete": "Delete Theme",
+    "Settings_Theme_DeleteButton": "Delete Current Theme",
+    "Settings_Theme_DeleteSuccess": "Successfully deleted theme",
+    "Settings_Theme_DeleteFail": "Couldn't delete theme",
     "Settings_Crosshair_Header": "Crosshair",
     "Settings_Crosshair_CrosshairMaker": "Crosshair Maker",
     "Settings_Crosshair_CrosshairMaker_Button": "Open Crosshair Maker",
@@ -126,6 +130,11 @@
     "Settings_Crosshair_CrosshairShare_Button": "Share Current Crosshair",
     "Settings_Crosshair_Shared": "Copied link to clipboard",
     "Settings_Crosshair_NoShare": "Couldn't share crosshair",
+    "Settings_Crosshair_Delete": "Delete Crosshair",
+    "Settings_Crosshair_DeleteButton": "Delete Current Crosshair",
+    "Settings_Crosshair_DeleteSuccess": "Successfully deleted crosshair",
+    "Settings_Crosshair_DeleteFail": "Couldn't delete crosshair",
+    "Settings_Crosshair_AlwaysRender": "Always show crosshair", 
 
     "ThemeMaker_YouThemeHere": "Your theme name here...",
     "ThemeMaker_MissingName": "Please enter a theme name",
@@ -135,6 +144,9 @@
     "CrosshairMaker_Header": "Crosshair Maker",
     "CrosshairMaker_Crosshair": "Crosshair",
     "CrosshairMaker_YourCrosshairName": "Your crosshair name here...",
+    "CrosshairMaker_MissingName": "Please enter a crosshair name",
+    "CrosshairMaker_SaveSuccess": "Successfully saved crosshair",
+    "CrosshairMaker_SaveFail": "Couldn't save crosshair",
 
     "PlyList_Header": "Lista de Jugadores",
     "PlyList_Unknown": "Desconocido",
@@ -142,5 +154,18 @@
     "PlyList_Killer": "Asesino",
     "PlyList_SentFr": "Solicitud de amistad enviada",
     "PlyList_NoFr": "No se pudo enviar solicitud de amistad",
-    "PlyList_CopyCID": "Cloud ID Copiado"
+    "PlyList_CopyCID": "Cloud ID Copiado",
+
+    "SSLBypass_Header": "SSL Bypass",
+    "SSLBypass_SubHeader": "Diagnoser",
+    "SSLBypass_Diagnoser_WindowsDefender": "Windows Defender:",
+    "SSLBypass_Diagnoser_Vanguard": "Riot Vanguard:",
+    "SSLBypass_Diagnoser_FaceIt": "Face It:",
+    "SSLBypass_Diagnoser_CoreIsolation": "Core Isolation:",
+    "SSLBypass_Diagnoser_SecureBoot": "Secure Boot:",
+    "SSLBypass_Diagnoser_WindowsVersion": "Windows Version:",
+    "SSLBypass_Diagnoser_TPM": "TPM:",
+    "SSLBypass_Diagnoser_Run": "Run Diagnoser",
+    "SSLBypass_Load_Success": "Successfully loaded",
+    "SSLBypass_Load_Fail": "Couldn't load"
 }
