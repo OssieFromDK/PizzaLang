@@ -176,6 +176,16 @@
     "SSLBypass_Diagnoser_TPM": "TPM:",
     "SSLBypass_Diagnoser_Run": "Run Diagnoser",
     "SSLBypass_Load_Success": "Successfully loaded",
-    "SSLBypass_Load_Fail": "Couldn't load"
+    "SSLBypass_Load_Fail": "Couldn't load",
 
+    "Prestiger_Header": "Prestiger",
+    "Prestiger_Character": "Character",
+    "Prestiger_Bloodpoints": "Bloodpoints",
+    "Prestiger_Prestige": "Prestige",
+    "Prestiger_Level": "Level",
+    "Prestiger_Start": "Start",
+    "Prestiger_Stop": "Stop",
+    "Prestiger_Invalid_Character": "Invalid Character",
+    "Prestiger_Invalid_Response": "Invalid Response",
+    "Prestiger_Fetch_Cookie": "Fetch Cookie"
 }
