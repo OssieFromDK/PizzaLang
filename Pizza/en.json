@@ -139,6 +139,11 @@
     "Settings_Crosshair_DeleteSuccess": "Successfully deleted crosshair",
     "Settings_Crosshair_DeleteFail": "Couldn't delete crosshair",
     "Settings_Crosshair_AlwaysRender": "Always show crosshair", 
+    "Settings_Prestiger_Header": "Prestiger",
+    "Settings_Prestiger_EnableGrab": "Enable Prestiger",
+    "Settings_Prestiger_Prestiger": "Prestiger",
+    "Settings_Prestiger_Prestiger_Button": "Open Prestiger",
+    "Settings_Prestiger_KillGame": "Auto Kill Game",
 
     "ThemeMaker_YouThemeHere": "Your theme name here...",
     "ThemeMaker_MissingName": "Please enter a theme name",
@@ -172,4 +177,5 @@
     "SSLBypass_Diagnoser_Run": "Run Diagnoser",
     "SSLBypass_Load_Success": "Successfully loaded",
     "SSLBypass_Load_Fail": "Couldn't load"
+
 }
