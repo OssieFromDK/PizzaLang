@@ -94,6 +94,8 @@
     "Settings_Header_General": "Allgemein",
     "Settings_AutoLogin": "Autologin mit Passwort",
     "Settings_HideLaunch": "Beim Starten minimieren",
+    "Settings_Header_SSLBypass": "SSL Bypass",
+    "Settings_SSLBypass": "Enable SSL Bypass for Steam",
     "Settings_Header_PakBypass": "Pak Bypass",
     "Settings_PakBypass": "Spiele Musik",
     "Settings_MusicVolume": "Musiklautstärke",

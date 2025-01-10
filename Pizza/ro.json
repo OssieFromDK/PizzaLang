@@ -94,6 +94,8 @@
     "Settings_Header_General": "General",
     "Settings_AutoLogin": "Auto login folosind parola salvata",
     "Settings_HideLaunch": "Ascunde la Pornire",
+    "Settings_Header_SSLBypass": "SSL Bypass",
+    "Settings_SSLBypass": "Enable SSL Bypass for Steam",
     "Settings_Header_PakBypass": "Pak Bypass",
     "Settings_PakBypass": "Porneste muzica",
     "Settings_MusicVolume": "Volumul Muzicii",

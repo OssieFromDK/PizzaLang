@@ -94,6 +94,8 @@
     "Settings_Header_General": "Geral",
     "Settings_AutoLogin": "Logar Usando a Senha Salva",
     "Settings_HideLaunch": "Ocultar ao iniciar",
+    "Settings_Header_SSLBypass": "SSL Bypass",
+    "Settings_SSLBypass": "Enable SSL Bypass for Steam",
     "Settings_Header_PakBypass": "Pak Bypass",
     "Settings_PakBypass": "Tocar música",
     "Settings_MusicVolume": "Volume da Música",
