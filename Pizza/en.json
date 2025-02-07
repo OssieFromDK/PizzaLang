@@ -164,6 +164,7 @@
     "PlyList_SentFr": "Sent friend request",
     "PlyList_NoFr": "Couldn't send friend request",
     "PlyList_CopyCID": "Copied Cloud ID",
+    "PlyList_LikelyUsing": "This person is likely using: ",
 
     "SSLBypass_Header": "SSL Bypass",
     "SSLBypass_SubHeader": "Diagnoser",
