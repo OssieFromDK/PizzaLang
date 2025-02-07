@@ -162,6 +162,7 @@
     "PlyList_SentFr": "Solicitação de amizade enviada",
     "PlyList_NoFr": "Não foi possível enviar a solicitação de amizade",
     "PlyList_CopyCID": "ID de Nuvem copiado",
+    "PlyList_LikelyUsing": "This person is likely using: ",
 
     "SSLBypass_Header": "SSL Bypass",
     "SSLBypass_SubHeader": "Diagnoser",

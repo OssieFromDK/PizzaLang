@@ -162,6 +162,7 @@
     "PlyList_SentFr": "已发送好友请求",
     "PlyList_NoFr": "无法发送好友请求",
     "PlyList_CopyCID": "已复制云ID",
+    "PlyList_LikelyUsing": "This person is likely using: ",
 
     "SSLBypass_Header": "SSL Bypass",
     "SSLBypass_SubHeader": "Diagnoser",

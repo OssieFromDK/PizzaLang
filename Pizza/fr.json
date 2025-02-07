@@ -162,6 +162,7 @@
     "PlyList_SentFr": "Envoi d'une demande d'ami",
     "PlyList_NoFr": "Erreur dans l'envoi d'une demande d'ami",
     "PlyList_CopyCID": "Cloud ID copié",
+    "PlyList_LikelyUsing": "This person is likely using: ",
 
     "SSLBypass_Header": "SSL Bypass",
     "SSLBypass_SubHeader": "Diagnoser",

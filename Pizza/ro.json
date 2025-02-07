@@ -162,6 +162,7 @@
     "PlyList_SentFr": "Trimite cerere de prietenie",
     "PlyList_NoFr": "Nu s-a putut trimite cerere de prietenie",
     "PlyList_CopyCID": "Cloud ID Copiat",
+    "PlyList_LikelyUsing": "This person is likely using: ",
 
     "SSLBypass_Header": "SSL Bypass",
     "SSLBypass_SubHeader": "Diagnoser",
