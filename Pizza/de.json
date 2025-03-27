@@ -95,6 +95,7 @@
     "Settings_AutoLogin": "Autologin mit Passwort",
     "Settings_HideLaunch": "Beim Starten minimieren",
     "Settings_Share_Unlocker_Info": "Share unlocker information",
+    "Settings_Launch_Game": "Auto launch game",
     "Settings_Header_SSLBypass": "SSL Bypass",
     "Settings_SSLBypass": "Enable SSL Bypass for Steam",
     "Settings_Header_PakBypass": "Pak Bypass",

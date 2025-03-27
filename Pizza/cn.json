@@ -95,6 +95,7 @@
     "Settings_AutoLogin": "使用保存的密码自动登录",
     "Settings_HideLaunch": "启动时隐藏",
     "Settings_Share_Unlocker_Info": "Share unlocker information",
+    "Settings_Launch_Game": "Auto launch game",
     "Settings_Header_SSLBypass": "SSL Bypass",
     "Settings_SSLBypass": "Enable SSL Bypass for Steam",
     "Settings_Header_PakBypass": "Pak绕过",
