@@ -22,6 +22,7 @@
     "InjectScreen_Success": "Erfolgreich gestartet",
     "InjectScreen_Fail": "konnte nicht gestartet werden",
     "InjectScreen_Disabled": "aktuell ausgeschaltet",
+    "InjectScreen_LaunchGame": "Launch your game",
 
     "GameLogging_Header": "Spiel-Logging",
     "GameLogging_Disable": "Spiel-Logging ausschalten?",
