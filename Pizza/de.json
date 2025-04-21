@@ -65,6 +65,7 @@
     "IngameWindow_MatchInfo_StatusBody": "Gefunden!",
     "IngameWindow_MatchInfo_MID": "Spiel ID",
     "IngameWindow_MatchInfo_MH": "Spiel Host",
+    "IngameWindow_MatchInfo_MMR": "Matchmaking Rating",
     "IngameWindow_MatchInfo_PLButton": "zeige Spielerliste",
     "IngameWindow_NormalInfo_BP": "Blutpunkte",
     "IngameWindow_NormalInfo_AUR": "Aurazellen",

@@ -65,6 +65,7 @@
     "IngameWindow_MatchInfo_StatusBody": "Emparejado",
     "IngameWindow_MatchInfo_MID": "ID de Partida",
     "IngameWindow_MatchInfo_MH": "Anfitrión de Partida",
+    "IngameWindow_MatchInfo_MMR": "Matchmaking Rating",
     "IngameWindow_MatchInfo_PLButton": "Ver Jugadores",
     "IngameWindow_NormalInfo_BP": "Puntos de Sangre",
     "IngameWindow_NormalInfo_AUR": "Células Áuricas",

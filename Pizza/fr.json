@@ -65,6 +65,7 @@
     "IngameWindow_MatchInfo_StatusBody": "Apparié",
     "IngameWindow_MatchInfo_MID": "ID du match",
     "IngameWindow_MatchInfo_MH": "Hôte du match",
+    "IngameWindow_MatchInfo_MMR": "Matchmaking Rating",
     "IngameWindow_MatchInfo_PLButton": "Voir les joueurs",
     "IngameWindow_NormalInfo_BP": "Points de Sang",
     "IngameWindow_NormalInfo_AUR": "Cellules D'ora",

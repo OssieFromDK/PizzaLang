@@ -65,6 +65,7 @@
     "IngameWindow_MatchInfo_StatusBody": "匹配中",
     "IngameWindow_MatchInfo_MID": "匹配ID",
     "IngameWindow_MatchInfo_MH": "匹配主机",
+    "IngameWindow_MatchInfo_MMR": "Matchmaking Rating",
     "IngameWindow_MatchInfo_PLButton": "查看玩家",
     "IngameWindow_NormalInfo_BP": "血点",
     "IngameWindow_NormalInfo_AUR": "细胞",

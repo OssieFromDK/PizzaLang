@@ -65,6 +65,7 @@
     "IngameWindow_MatchInfo_StatusBody": "Matched",
     "IngameWindow_MatchInfo_MID": "Match ID",
     "IngameWindow_MatchInfo_MH": "Match Host",
+    "IngameWindow_MatchInfo_MMR": "Matchmaking Rating",
     "IngameWindow_MatchInfo_PLButton": "View Players",
     "IngameWindow_NormalInfo_BP": "Bloodpoints",
     "IngameWindow_NormalInfo_AUR": "Auric Cells",
