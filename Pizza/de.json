@@ -101,6 +101,8 @@
     "Settings_Manual_Time": "Manual Timeout",
     "Settings_Header_SSLBypass": "SSL Bypass",
     "Settings_SSLBypass": "Enable SSL Bypass for Steam",
+    "Settings_Header_Diagnoser": "Diagnoser",
+    "Settings_Diagnoser": "Open Diagnoser",
     "Settings_Header_PakBypass": "Pak Bypass",
     "Settings_PakBypass": "Spiele Musik",
     "Settings_MusicVolume": "Musiklautstärke",
