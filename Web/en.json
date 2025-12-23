@@ -4,6 +4,7 @@
     "Global_Home": "Home",
     "Global_About": "About",
     "Global_Status": "Status",
+    "Global_Store": "Store",
     "Global_License": "License",
 
     "Index_Title": "Free Dead by Daylight Unlocker",
@@ -47,6 +48,7 @@
     "License_Redeem": "Redeem",
 
     "Dashboard_Title": "Dashboard",
+    "Dashboard_CloseModal": "Close Modal",
     "Dashboard_SaveChanges": "Save Changes",
     "Dashboard_Licenses": "Licenses",
     "Dashboard_Downloads": "Downloads",

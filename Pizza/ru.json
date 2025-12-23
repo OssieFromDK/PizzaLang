@@ -7,7 +7,7 @@
     "LicenseScreen_RememberMe": "Запомнить меня",
     "LicenseScreen_SignIn": "Войти",
     "LicenseScreen_Invalid": "Недействительная  Лицензия",
-    "LicenseScreen_Disabled": "Pizza отключена",
+    "LicenseScreen_Disabled": "FP отключена",
     "LicenseScreen_Unclaimed": "Неиспользуемая Лицензия",
     "LicenseScreen_HWID": "Несоответствие HWID",
     "LicenseScreen_Expired": "Срок действия лицензии истек",
@@ -33,7 +33,7 @@
     "AutoUpdate_Checking": "Проверка обновлений...",
 
     "AntiVirus_Header": "Защитник Windows",
-    "AntiVirus_Allow": "Разрешить Fortnite Pizza в защитнике Windows?",
+    "AntiVirus_Allow": "Разрешить FP в защитнике Windows?",
     "AntiVirus_Yes": "Да",
     "AntiVirus_No": "Нет",
 

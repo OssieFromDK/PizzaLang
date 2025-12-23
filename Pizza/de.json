@@ -7,7 +7,7 @@
     "LicenseScreen_RememberMe": "eingeloggt bleiben",
     "LicenseScreen_SignIn": "Einloggen",
     "LicenseScreen_Invalid": "ungültige Lizenz",
-    "LicenseScreen_Disabled": "Pizza momentan ausgeschaltet",
+    "LicenseScreen_Disabled": "FP momentan ausgeschaltet",
     "LicenseScreen_Unclaimed": "unbeanspruchte Lizenz",
     "LicenseScreen_HWID": "HWID stimmt nicht überein",
     "LicenseScreen_Expired": "Lizenz abgelaufen",
@@ -33,7 +33,7 @@
     "AutoUpdate_Checking": "suche nach Updates",
 
     "AntiVirus_Header": "Windows-Sicherheit",
-    "AntiVirus_Allow": "Fortnite-Pizza in Windows-Sicherheit erlauben?",
+    "AntiVirus_Allow": "FP in Windows-Sicherheit erlauben?",
     "AntiVirus_Yes": "Ja",
     "AntiVirus_No": "Nein",
 

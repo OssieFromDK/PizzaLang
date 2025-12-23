@@ -7,7 +7,7 @@
     "LicenseScreen_RememberMe": "Remember Me",
     "LicenseScreen_SignIn": "Sign In",
     "LicenseScreen_Invalid": "Invalid License",
-    "LicenseScreen_Disabled": "Pizza Disabled",
+    "LicenseScreen_Disabled": "FP Disabled",
     "LicenseScreen_Unclaimed": "Unclaimed License",
     "LicenseScreen_HWID": "HWID Mismatch",
     "LicenseScreen_Expired": "License Expired",
@@ -33,7 +33,7 @@
     "AutoUpdate_Checking": "Checking for updates...",
 
     "AntiVirus_Header": "Windows Defender",
-    "AntiVirus_Allow": "Allow Fortnite Pizza in Windows Defender?",
+    "AntiVirus_Allow": "Allow FP in Windows Defender?",
     "AntiVirus_Yes": "Yes",
     "AntiVirus_No": "No",
 
